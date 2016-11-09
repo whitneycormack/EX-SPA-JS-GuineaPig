@@ -1,0 +1,30 @@
+.blue {
+  color: blue;
+}
+
+.hulkify {
+  font-size: 60px;
+}
+
+.captured {
+  border: 0.5px solid blue;
+}
+
+.round {
+  border-radius: 80px;
+}
+
+.bold {
+  font-weight: bold;
+}
+
+.italics {
+  font-weight: bold;
+  font-style: italic;
+}
+
+.block {
+  display: block;
+  padding: 5px;
+  margin: 5px;
+}
